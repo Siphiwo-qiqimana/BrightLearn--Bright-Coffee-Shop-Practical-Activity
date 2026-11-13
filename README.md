@@ -1,4 +1,4 @@
-# Bright Coffee Shop — Sales & Operational Analysis
+# Bright Coffee Shop — Control Flow Practical
 
 ## 1. Overview
 This practical activity analyzes transactional sales data for **Bright Coffee Shop** across three retail locations (**Lower Manhattan**, **Hell's Kitchen**, and **Astoria**). The primary objective is to apply Python control flow and data manipulation techniques to evaluate store-level revenue performance, categorize customer transaction sizes, identify peak trading hours for staffing optimization, track progress against cumulative revenue targets, and determine top-selling product categories.
